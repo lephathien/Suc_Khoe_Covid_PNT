@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "100149737071",
+    "firebase_url": "https://covidapp-7cb1a-default-rtdb.firebaseio.com",
+    "project_id": "covidapp-7cb1a",
+    "storage_bucket": "covidapp-7cb1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100149737071:android:80cd0c655dfaaa710dff9a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_covid_dashboard_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100149737071-8151qc8jcjaen05srme3fq7de6mpde5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDShOW2MmicPC5oldES61olyrQKx6knDNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100149737071-8151qc8jcjaen05srme3fq7de6mpde5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
